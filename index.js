@@ -1,4 +1,4 @@
 function greet(name) {
-    return `Hello, ${name}!`;
+    return `Hi, ${name}!`;
 }
 module.exports = {greet};
